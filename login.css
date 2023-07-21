@@ -1,0 +1,152 @@
+body {
+    background: #242c3c;
+    font-family: roboto, sans-serif;
+}
+.navbar {
+    width: 100%;
+    height: 15%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 0 4%;
+    background: #242c3c;
+    display: flex;
+    align-items: center;
+}
+
+.brand-logo {
+    height: 70px;
+}
+
+.nav-links {
+    margin-top: 2%;
+    display: flex;
+    list-style: none;
+}
+
+.nav-items a {
+    text-decoration: none;
+    margin-left: px;
+    text-transform: capitalize;
+    color: #fff;
+    opacity: 0.9;
+}
+
+.right-container {
+    display: block;
+    margin-left: auto;
+}
+
+.sub-btn {
+    background: #1f80e0;
+    height: 30px;
+    padding: 0 10px;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 12px;
+    margin: 0 70px;
+}
+
+.login-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.cont-btn {
+    display: flex;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    background: #1f80e0;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 41%;
+}
+
+.cont-btn:hover{
+    background-color: #2a93fc;
+}
+
+input[type=text]{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    width: 40%;
+    height: 40px;
+}
+
+.login-heading, .login-text{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 30%;
+    padding-right: 35%;
+}
+
+.login-text {
+    font-size: large;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+.login-heading {
+    font-size: xx-large;
+    position: relative;
+}
+
+.login_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.email-input {
+    background-color: #1d222b;
+    border: none;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.email-input:focus{
+    outline: none;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #444a56;
+}
+
+.new-section{
+    position: absolute;
+    display: flex;
+    bottom: 15%;
+    color: rgb(165, 165, 165);
+    margin-top: 50px;
+    text-align: center;
+    left: 34%;
+}
+
+.new-text a{
+    color: white;
+    text-decoration: none;
+    font-style: bold;
+}
+
+.new-text a:hover{
+    text-decoration: underline;
+}
