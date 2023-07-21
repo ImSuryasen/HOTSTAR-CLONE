@@ -15,3 +15,7 @@
 <img width="946" alt="Screenshot 2023-07-22 013612" src="https://github.com/ImSuryasen/HOTSTAR-CLONE/assets/100407626/73cb2e74-5f3b-4a2e-b542-84ca2433fea3">
 
 
+---
+<p align="center"><h3 align="center"> Show some ❤️ by ⭐ the repository!!!</h3></p>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
