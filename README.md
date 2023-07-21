@@ -1,8 +1,9 @@
-# HOTSTAR-CLONE
+# HOTSTAR CLONE
 
-🧑‍💻 It is the clone website of the OTT Platform Disney+ Hotstar :). 
-🧑‍💻 All the Buttons are clickable.
-🧑‍💻 It has been made using HTML, CSS, and JavaScript.
+1. 🧑‍💻 It is the project made for IBM Skillsbuild Front-End Development Internship.
+2. 🧑‍💻 It is the clone website of the OTT Platform Disney+ Hotstar :). 
+3. 🧑‍💻 All the Buttons are clickable.
+4. 🧑‍💻 It has been made using HTML, CSS, and JavaScript.
 
 # Screenshots
 
